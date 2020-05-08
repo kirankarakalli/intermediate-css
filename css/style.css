@@ -1,0 +1,27 @@
+body{
+
+  margin: 0px;
+}
+h1{
+  margin-top: 0;
+}
+
+
+div{
+  background-color: #f5a8a8;
+}
+.top{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border: 5px solid gray;
+
+}
+.bottom{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  border: 5px solid gray;
+  margin-left: 200px;
+
+}
